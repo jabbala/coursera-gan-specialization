@@ -1,4 +1,5 @@
-# coursera-gan-specialization
+# [Generative Adversarial Network Specialization - DeepLearning.AI](https://www.deeplearning.ai/generative-adversarial-networks-specialization/)
+
 
 ![](/images/GAN-banner.jpg)
 # Deeplearning.ai Generative Adversarial Networks Specialization
